@@ -87,6 +87,16 @@ weighted avg       0.99      0.99      0.99    100000
     Implement model saving/loading
     Build a web UI using Flask or Streamlit for real-time character prediction
 
+## Viewing the Notebook
+
+The repository includes both Jupyter notebook (.ipynb) and HTML formats:
+
+- **Jupyter Notebook**: For those who want to run the code interactively
+  - See [handwritten_az_recognition.ipynb](./notebooks/handwritten_az_recognition.ipynb)
+
+- **HTML Version**: For viewing all visualizations and outputs without running the code
+  - See [handwritten_az_recognition.html](./notebooks/handwritten_az_recognition.html)
+
 👨‍💻 Author: Akakinad
     Feel free to reach out on LinkedIn or GitHub for questions or collaborations.
 
